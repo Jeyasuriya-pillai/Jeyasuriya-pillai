@@ -1,19 +1,30 @@
 <h1 align="center">Hey I'm Jeyasuriya👋</h1>
 
+<hr style="height:2px;border-width:0;color:gray;background-color:#00FFFF">
+
 ###
 
-<p align="left">🎓 BSc IT student skilled in C, C++, HTML, CSS, JavaScript, Unity, Android Studio, and Computer Graphics.<br>💻 Built projects including the *Shri Saikrupa Stores App* and a *3D Stack Cube Game*.<br>🚀 Currently learning React.js and Node.js to grow as a full-stack developer and game creator.</p>
+<p align="left">
+🎓 BSc IT student skilled in C, C++, HTML, CSS, JavaScript, Unity, Android Studio, and Computer Graphics.<br>
+💻 Built projects including the <b>Shri Saikrupa Stores App</b> and a <b>3D Stack Cube Game</b>.<br>
+🚀 Currently learning React.js and Node.js to grow as a full-stack developer and game creator.
+</p>
 
 ###
 
 <img align="right" height="35" src="https://i.pinimg.com/originals/dc/3e/cd/dc3ecdab0fa15f3bd29d1e20718648e6.gif"  />
 
 ###
+
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Jeyasuriya-pillai">
-    <img src="https://komarev.com/ghpvc/?username=Jeyasuriya-pillai&label=Profile%20views&color=00FFFF&style=flat-square" alt="Jeyasuriya-pillai's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Jeyasuriya-pillai&label=✨+Profile+Views&color=00FFFF&style=for-the-badge" alt="Jeyasuriya-pillai's profile views" />
   </a>
 </p>
+
+<hr style="height:2px;border-width:0;color:gray;background-color:#00FFFF">
+
+###
 
 <p align="left">🛠️ Languages & Tools</p>
 
@@ -47,6 +58,8 @@
   <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="35" alt="unity logo"  />
 </div>
 
+<hr style="height:2px;border-width:0;color:gray;background-color:#00FFFF">
+
 ###
 
 <p align="left">🔗 Connect with Me</p>
@@ -58,8 +71,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  />
   </a>
 </div>
-
-###
 
 ###
 
